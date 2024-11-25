@@ -159,7 +159,7 @@ h1 {
   content: "/";
   margin-right: 4px;
 }
-.breadcrumb-list_link {
+.breadcrumb-list__link {
   text-decoration: none;
   color: inherit;
 }
