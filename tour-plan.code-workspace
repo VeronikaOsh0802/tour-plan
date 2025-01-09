@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../OneDrive/Рабочий стол/new_project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tour-plan"
+	}
+}
